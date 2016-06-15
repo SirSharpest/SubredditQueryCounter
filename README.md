@@ -29,6 +29,7 @@ ghci main.hs
 ```
 
 ## Dependencies
+- GHC
 - [Dispatch](https://github.com/owainlewis/http-dispatch) - A high level HTTP client for Haskell that focuses on ease of use
 
 ## TODO: 
